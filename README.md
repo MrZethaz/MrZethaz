@@ -1,3 +1,3 @@
-<br/> -MrZetha, just a idle programmer studying;
-<br/> - Python, Dart, Java, and learning C;
+<br/> printf("MrZetha, just a idle programmer studying";
+<br/> printf("Python, Dart, Java, and learning C");
 <br/>// :)
